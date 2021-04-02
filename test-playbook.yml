@@ -6,7 +6,7 @@
     register: result
     become: yes
     vars:
-      ansible_python_interpreter: /usr/bin/python
+      ansible_python_interpreter: /path/to/dir/python
   
   #outputs the ansible python version
   - debug: var=ansible_python_interpreter

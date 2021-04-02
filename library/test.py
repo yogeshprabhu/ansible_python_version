@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/path/to/dir/python
 
 from ansible.module_utils.basic import AnsibleModule
 import sys 
