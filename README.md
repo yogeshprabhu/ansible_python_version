@@ -1,5 +1,5 @@
 # ansible_python_version
 
-##usage
+## usage
 
 $ ansible-playbook test-playbook.yml
